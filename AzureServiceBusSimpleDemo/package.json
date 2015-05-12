@@ -1,0 +1,14 @@
+{
+  "name": "AzureServiceBusSimpleDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enviar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William S Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "azure": "^0.10.6"
+  }
+}
