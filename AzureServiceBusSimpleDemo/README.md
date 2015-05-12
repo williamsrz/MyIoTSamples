@@ -1,2 +1,3 @@
-# My IoT Samples
-### Some samples and experiments with IoT and Azure / Alguns exemplos e experimentos com IoT e Azure
+# Azure Service Bus Demo
+Para usar este exemplo você deve criar uma nova instancia do Service Bus.
+Incluirei um passo a passo aqui em breve!
